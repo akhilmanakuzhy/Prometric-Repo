@@ -1,7 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. DANI03.
       ******************************************************************
-      *07-18-06 - NEW PROGRAM TO CREATE TCO EXPORT FOR DANTES OF       
+      *07-19-06 - NEW PROGRAM TO CREATE TCO EXPORT FOR DANTES OF       
       *        ON BASE AND ON CAMPUS FTP FOR MILITARY IBT.          
       *06-16-11 - ADD FULLY FUNDED INDIRS TO EXPORT                     
       *02-15-17 - ADD EDITS TO SUPPORT DAIMS PGMING CHANGES            
