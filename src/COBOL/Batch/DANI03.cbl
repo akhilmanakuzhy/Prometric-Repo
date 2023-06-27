@@ -3,11 +3,11 @@
       ******************************************************************
       *07-19-06 - NEW PROGRAM TO CREATE TCO EXPORT FOR DANTES OF       
       *        ON BASE AND ON CAMPUS FTP FOR MILITARY IBT.          
-      *06-16-11 - ADD FULLY FUNDED INDIRS TO EXPORT                     
-      *02-15-17 - ADD EDITS TO SUPPORT DAIMS PGMING CHANGES            
-      *04-05-18 - ONBASE FTP ASSOCIATED TO 7777 NEED 'F' BRANCH         
-      *05-13-21 - ADD SURPASS 6900 PRO PROCTOR FULLY FUNDED
-      *12-07-22 - Converted from EZT to COBOL
+      *06-19-11 - ADD FULLY FUNDED INDIRS TO EXPORT                     
+      *02-19-17 - ADD EDITS TO SUPPORT DAIMS PGMING CHANGES            
+      *04-09-18 - ONBASE FTP ASSOCIATED TO 7777 NEED 'F' BRANCH         
+      *05-19-21 - ADD SURPASS 6900 PRO PROCTOR FULLY FUNDED
+      *12-19-22 - Converted from EZT to COBOL
       *           MODIFIED LOGIC TO ACCOMODATE FTP O/P FORMAT IN MFCOUS
       *06-19-23 - MODIFIED TO PULL FILE FROM PRO-PROCTOR DIRECTLY RATHER
       *           THAN TCNET.                                           
