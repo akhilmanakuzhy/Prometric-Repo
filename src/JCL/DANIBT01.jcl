@@ -1,6 +1,6 @@
 //DANIBT01 JOB (2582,12,0120,9999,9999,,1),'45855,PRN,PROD',
 //   CLASS=A,MSGCLASS=4
-//*LOGONID PRD2583
+//*LOGONID PRD2584
 //JOBLIB DD DSN=SYS1.PGMLIB,DISP=SHR
 //       DD DSN=ETS.SYSLIB,DISP=SHR
 //*  *******************************************************************
