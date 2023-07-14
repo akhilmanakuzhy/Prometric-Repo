@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. DANI03.
+       PROGRAM-ID. TESTRPT.
       ******************************************************************
       *07-19-06 - NEW PROGRAM TO CREATE TCO EXPORT FOR DANTES OF       
       *        ON BASE AND ON CAMPUS FTP FOR MILITARY IBT.          
